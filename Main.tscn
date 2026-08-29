@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://d31dxsoi8yjwh"]
+
+[ext_resource type="Texture2D" uid="uid://baoclymgih73h" path="res://assets/menu_supermercado.png" id="1_menu"]
+
+[node name="MenuSupermercado" type="Node2D" unique_id=969868539]
+
+[node name="Background" type="Sprite2D" parent="." unique_id=1543487763]
+position = Vector2(768, 512)
+texture = ExtResource("1_menu")
